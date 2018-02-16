@@ -1,0 +1,11 @@
+{
+  "name": "apivv",
+  "version": "1.0.0",
+  "description": "Trabajo con apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VV",
+  "license": "ISC"
+}
